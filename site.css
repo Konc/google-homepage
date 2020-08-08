@@ -29,6 +29,39 @@ header button {
   padding: 0 12px;
 }
 
+main {
+  margin: 0 auto;
+  min-width: 980px;
+  text-align: center;
+}
+
+main .logo {
+  height: 233px;
+  margin-top: 89px;
+}
+
+.searchform {
+  border: 1px solid #dfe1e5;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 5px 8px 0 16px;
+  width: 585px;
+}
+
+.searchform:hover {
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+  border-color: #dfe1e500;
+}
+
+.searchform input {
+  border: 0;
+  font-size: 16px;
+  height: 34px;
+  line-height: 34px;
+  text-align: left;
+  width: 95%;
+}
+
 footer {
   position: absolute;
   bottom: 0;
