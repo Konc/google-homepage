@@ -81,7 +81,7 @@ main .logo img {
   text-align: left;
   height: 34px;
   border: 0;
-  flex: 100%;
+  width: 95%;
   outline: none;
 }
 
